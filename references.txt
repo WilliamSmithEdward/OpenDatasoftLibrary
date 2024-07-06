@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/4383571/importing-files-from-different-folder
+https://stackoverflow.com/questions/448271/what-is-init-py-for
+https://stackoverflow.com/questions/11692613/python-sum-values-in-dictionary
+https://codereview.stackexchange.com/questions/141281/urlify-a-string-using-python
+https://www.w3schools.com/python/python_classes.asp
+https://www.geeksforgeeks.org/find-average-list-python/
+https://geektrainer.dev/code/python-type-hints/
+https://gist.github.com/rogerallen/1583593
+https://public.opendatasoft.com/explore/dataset/us-cities-demographics/api/
+https://gist.github.com/rogerallen/1583593
